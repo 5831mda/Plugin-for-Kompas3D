@@ -1,0 +1,8 @@
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\bin\Release\Plugin_Kernel.exe.config
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\bin\Release\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\bin\Release\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Release\Plugin_Kernel.Form.resources
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Release\Plugin_Kernel.Properties.Resources.resources
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Release\Plugin_Kernel.csproj.GenerateResource.Cache
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Release\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Release\Plugin_Kernel.pdb

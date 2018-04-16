@@ -1,0 +1,39 @@
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe.config
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Form.resources
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Properties.Resources.resources
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csproj.GenerateResource.Cache
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\курсач и лабы\1\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe.config
+C:\Users\Dench\Desktop\курсач и лабы\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\курсач и лабы\1\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe.config
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Form.resources
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Properties.Resources.resources
+C:\Users\Dench\Desktop\курсач и лабы\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csproj.GenerateResource.Cache
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe.config
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Form.resources
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Properties.Resources.resources
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csproj.GenerateResource.Cache
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe.config
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\bin\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Form.resources
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.Properties.Resources.resources
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_Kernel\obj\Debug\Plugin_Kernel.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_KernelTests.dll
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_KernelTests.pdb
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\nunit.framework.dll
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\nunit.framework.xml
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\obj\Debug\Plugin_KernelTests.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\obj\Debug\Plugin_KernelTests.dll
+C:\Users\Dench\Desktop\Plugin_Kernel\Plugin_KernelTests\obj\Debug\Plugin_KernelTests.pdb
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_KernelTests.dll
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_KernelTests.pdb
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\nunit.framework.dll
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_Kernel.exe
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\Plugin_Kernel.pdb
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\nunit.framework.xml
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\obj\Debug\Plugin_KernelTests.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\obj\Debug\Plugin_KernelTests.dll
+C:\Users\Dench\Desktop\Почти готовый\Plugin_Kernel\Plugin_KernelTests\obj\Debug\Plugin_KernelTests.pdb
